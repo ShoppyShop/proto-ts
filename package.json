@@ -1,0 +1,18 @@
+{
+  "name": "@shoppyshop/proto-ts",
+  "version": "0.0.1",
+  "author": "Vova Revenko <vova@revenko.org>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShoppyShop/proto-ts.git"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  },
+  "engines": {
+    "node": "^16.13.0",
+    "yarn": "^1.22.17"
+  }
+}
