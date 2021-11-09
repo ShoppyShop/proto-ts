@@ -1,0 +1,1 @@
+# ShoppShop Proto TypeScript
