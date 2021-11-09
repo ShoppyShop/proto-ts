@@ -1,6 +1,7 @@
 {
   "name": "@shoppyshop/proto-ts",
   "version": "0.0.1",
+  "license": "MIT",
   "author": "Vova Revenko <vova@revenko.org>",
   "repository": {
     "type": "git",
